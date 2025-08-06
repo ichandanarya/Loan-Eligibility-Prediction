@@ -8,13 +8,13 @@ This project uses machine learning techniques to predict whether an applicant is
 The objective of this project is to build a classification model that helps financial institutions decide whether to approve or reject a loan application. The model is trained using historical data of applicants and their loan status.
 ## 📁 Project Structure 
 
-Loan-Eligibility-Prediction/
+Loan-Eligibility-Prediction
 
-├── Loan Eligibility Prediction.ipynb   # Jupyter Notebook with    EDA, preprocessing, and model building
+├── Loan Eligibility Prediction.ipynb   
 
-├── README.md               # Project overview and instructions
+├── README.md               
 
-├── dataset/                # Folder to store dataset (not uploaded here)
+├── dataset           
 
    └── train.csv
 
